@@ -1,0 +1,4 @@
+#Tue Sep 05 15:41:27 CDT 2017
+base.0=/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
+renamed.0=classes.dex
+file.0=/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex

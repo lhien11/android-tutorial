@@ -1,0 +1,25 @@
+#Tue Sep 05 21:41:21 CDT 2017
+renamed.7=classes3.dex
+renamed.6=classes5.dex
+renamed.5=classes7.dex
+renamed.4=classes8.dex
+renamed.3=classes6.dex
+renamed.2=classes2.dex
+renamed.1=classes.dex
+renamed.0=classes4.dex
+base.7=/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd4cef66f95af49ba50cd387f8c0159b2e2c1598
+base.6=/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_4f15be25fed26c30f1a51da230ed858ec550e682
+base.5=/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_43f69989495eb269836fb868e6941d2f963d85c2
+base.4=/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_20e0238de95937e12561cd434e7d9739e2c582ec
+base.3=/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_4c7f103fe08a0a3f045900bcb607278f8bbbb1bd
+base.2=/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c06972e17a13c28809f78f95a711ae2358c89b35
+base.1=/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_ba64ecb76d38cc7beca92b9da3389284c5ee65f6
+base.0=/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dab0143d318a7869740a33b0b7261c1c18949a12
+file.7=/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd4cef66f95af49ba50cd387f8c0159b2e2c1598/classes.dex
+file.6=/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_4f15be25fed26c30f1a51da230ed858ec550e682/classes.dex
+file.5=/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_43f69989495eb269836fb868e6941d2f963d85c2/classes.dex
+file.4=/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_20e0238de95937e12561cd434e7d9739e2c582ec/classes.dex
+file.3=/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_4c7f103fe08a0a3f045900bcb607278f8bbbb1bd/classes.dex
+file.2=/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c06972e17a13c28809f78f95a711ae2358c89b35/classes.dex
+file.1=/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_ba64ecb76d38cc7beca92b9da3389284c5ee65f6/classes.dex
+file.0=/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dab0143d318a7869740a33b0b7261c1c18949a12/classes.dex

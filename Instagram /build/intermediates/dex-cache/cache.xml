@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/hienle/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_4f15be25fed26c30f1a51da230ed858ec550e682/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hienle/.android/build-cache/0e787600196514c4ed031839123c6cf29b71d7e2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd4cef66f95af49ba50cd387f8c0159b2e2c1598/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b8a34c3961cc3f78fbcdb6803f8b03572b9fac8e">
+        <dex dex="/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_743a431c37ad97d971d37b69d04aa21555ee0fce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0f3865325be8edc263ed331d8eecc453da678e19/classes.dex" />
+    </item>
+
+</items>

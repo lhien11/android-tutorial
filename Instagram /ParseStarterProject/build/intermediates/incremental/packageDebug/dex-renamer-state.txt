@@ -1,0 +1,7 @@
+#Wed Sep 06 00:36:28 CDT 2017
+base.0=/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_743a431c37ad97d971d37b69d04aa21555ee0fce
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0f3865325be8edc263ed331d8eecc453da678e19/classes.dex
+base.1=/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0f3865325be8edc263ed331d8eecc453da678e19
+file.0=/Users/hienle/Documents/Instagram 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_743a431c37ad97d971d37b69d04aa21555ee0fce/classes.dex
